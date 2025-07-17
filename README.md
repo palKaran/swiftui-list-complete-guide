@@ -238,7 +238,7 @@ struct Task: Identifiable {
 
 ## 🎬 Related Content
 
-- **YouTube Tutorial**: [SwiftUI Lists Complete Guide - Coming Soon](Coming Soon)
+- **YouTube Tutorial**: [SwiftUI Lists Complete Guide - Coming Soon](https://youtu.be/YNVp98rifFs)
 - **Blog Post**: [Advanced SwiftUI List Patterns](https://swift-pal.com/swiftui-list-complete-guide-move-delete-pin-and-custom-actions-in-2025-b2efc9cb3fc9)
 
 ## 🤝 Contributing
